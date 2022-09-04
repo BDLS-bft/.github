@@ -1,6 +1,6 @@
 # BDLS protocol 
 
-## integration with Hyperledger Fabric
+## TODO: Integration with Hyperledger Fabric orderer service
 
 ## Spring Boot web application using Java 17 as Restful API 
 Tested successfuly with Fabric 2.2
