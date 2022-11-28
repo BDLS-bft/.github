@@ -1,7 +1,6 @@
 # BDLS protocol 
 
-This open-source project is part of Hyperledger Labs.
-https://github.com/hyperledger-labs/bdls
+This open-source project is part of [Hyperledger Labs](https://github.com/hyperledger-labs/bdls)
 
 
 ----------------
