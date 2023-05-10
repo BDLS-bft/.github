@@ -1,4 +1,4 @@
-# BDLS protocol 
+# BDLS Consensus protocol GitHub Organization
 
 This open-source project is part of [Hyperledger Labs](https://github.com/hyperledger-labs/bdls)
 
